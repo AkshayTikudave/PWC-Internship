@@ -2,13 +2,13 @@
 
 The tasks given under PwC PowerBI Virtual Experience Program in Forage.
 
-Task 1: Introduction on PowerBI
+## Task 1: Introduction on PowerBI
 
 Task Overview : 
 
 In terms of PowerBI, I want to learn how to make interactive dashboards that are visually appealing and help me rapidly and effectively extract insights from large, complex datasets.  I want to improve my ability to visualise and analyse data using PowerBI, as well as learn more about automation and machine learning strategies. In order to better convey insights to customers and stakeholders, I also wish to strengthen my design thinking and digital storytelling skills. 
 
-Task 2: Call Centre Trends
+## Task 2: Call Centre Trends
 
 The importance of upskilling in the digital age and its role in the workplace.
 
@@ -22,7 +22,7 @@ This task requires you to create a dashboard in Power BI that displays all the r
 
 Overall customer satisfaction: This KPI measures the satisfaction level of customers who contacted the call center for support. Overall calls answered/abandoned: This KPI measures the number of calls answered by agents versus the number of calls abandoned by customers. Calls by time: This KPI measures the volume of calls during different times of the day, week, or month. Average speed of answer: This KPI measures the average time taken by agents to answer customer calls. Agent’s performance quadrant -> average handle time (talk duration) vs calls answered: This KPI measures the performance of agents in terms of the average handle time of calls versus the number of calls answered.
 
-Task 3: Customer Retention
+## Task 3: Customer Retention
 
 Define proper KPIs:
 
@@ -32,7 +32,7 @@ This task requires you to create a dashboard that displays the defined KPIs for 
 
 This task requires you to write an email to the engagement partner, explaining the findings from the dashboard and providing suggestions on what needs to be changed to improve customer retention.
 
-Task 4: Diversity & Inclusion
+## Task 4: Diversity & Inclusion
 
 Gender balance in the executive suite:
 
